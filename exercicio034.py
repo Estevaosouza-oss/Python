@@ -1,3 +1,6 @@
+print ('-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
+print ('         AUMENTO DE SALÁRIO         ')
+print ('-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
 sala = float(input('Digite o Seu Salário: '))
 if sala > 1250 :
     aumento = (sala * 0.1) + sala
