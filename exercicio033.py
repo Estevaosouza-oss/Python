@@ -1,3 +1,6 @@
+print ('-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
+print ('            MAIOR E MENOR           ')
+print ('-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
 n1 = int(input('Digite o Primeiro Numero: '))
 n2 = int(input('Digite o Segundo Numero: '))
 n3 = int(input('Digite o Terceiro Numero: '))
